@@ -1,0 +1,1 @@
+# jojornarso.sh
